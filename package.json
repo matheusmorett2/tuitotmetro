@@ -1,0 +1,20 @@
+{
+  "name": "Tuitometro",
+  "version": "1.0.0",
+  "description": "Descobrindo se vc concorda com ele",
+  "main": "index.js",
+  "repository": "https://github.com/matheusmorett2/tuitotmetro",
+  "author": "Matheus Morett <matheusmorett300@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "brain.js": "^2.0.0-beta.2",
+    "fs": "^0.0.1-security",
+    "neuro.js": "^0.1.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "babel-cli": "^6.26.0"
+  }
+}
